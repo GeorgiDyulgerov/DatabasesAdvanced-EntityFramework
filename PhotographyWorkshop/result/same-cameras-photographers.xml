@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<photographers>
+  <photographer name="Jasmin Padua" primary-camera="Canon 7D Mk II">
+    <lenses>
+      <lens>&gt;Canon 15mm f1.4</lens>
+      <lens>&gt;Canon 35mm f4</lens>
+    </lenses>
+  </photographer>
+  <photographer name="Annabelle Nimmo" primary-camera="Canon 5D Mk II">
+    <lenses>
+      <lens>&gt;Canon 22mm f3.5</lens>
+      <lens>&gt;Canon 24mm f3.5</lens>
+      <lens>&gt;Canon 85mm f4</lens>
+      <lens>&gt;Canon 135mm f1.4</lens>
+    </lenses>
+  </photographer>
+  <photographer name="Dani Vanness" primary-camera="Canon 40D">
+    <lenses>
+      <lens>&gt;Canon 8mm f2.8</lens>
+      <lens>&gt;Canon 10mm f3.5</lens>
+    </lenses>
+  </photographer>
+  <photographer name="Jay Stanforth" primary-camera="Canon 5D">
+    <lenses>
+      <lens>&gt;Canon 16mm f2.4</lens>
+      <lens>&gt;Canon 16mm f3.5</lens>
+      <lens>&gt;Canon 600mm f1.4</lens>
+    </lenses>
+  </photographer>
+  <photographer name="Tu Aslinger" primary-camera="Nikon D7200">
+    <lenses>
+      <lens>&gt;Nikon 18mm f2.8</lens>
+      <lens>&gt;Nikon 35mm f2</lens>
+    </lenses>
+  </photographer>
+  <photographer name="Joane Claflin" primary-camera="Nikon D4S">
+    <lenses>
+      <lens>&gt;Nikon 26mm f4</lens>
+      <lens>&gt;Nikon 9mm f2.8</lens>
+    </lenses>
+  </photographer>
+  <photographer name="Denisha Gatton" primary-camera="Nikon D3X">
+    <lenses>
+      <lens>&gt;Nikon 2000mm f5.6</lens>
+      <lens>&gt;Nikon 16mm f2</lens>
+    </lenses>
+  </photographer>
+  <photographer name="China Horsey" primary-camera="Nikon D300">
+    <lenses>
+      <lens>&gt;Nikon 45mm f2</lens>
+    </lenses>
+  </photographer>
+  <photographer name="Leontine Breitenbach" primary-camera="Pentax K-m">
+    <lenses>
+      <lens>&gt;Pentax 27mm f2.8</lens>
+      <lens>&gt;Pentax 14mm f2.8</lens>
+    </lenses>
+  </photographer>
+  <photographer name="Rita Bucklew" primary-camera="Pentax K200D">
+    <lenses>
+      <lens>&gt;Pentax 24mm f2.8</lens>
+    </lenses>
+  </photographer>
+</photographers>

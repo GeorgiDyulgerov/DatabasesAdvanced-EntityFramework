@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotographyWorkshop.ImportJson", "PhotographyWorkshop.ImportJson\PhotographyWorkshop.ImportJson.csproj", "{DA2E1F3D-9F76-47C7-8677-5E7172BB12E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotographyWorkshop.Models", "PhotographyWorkshop.Models\PhotographyWorkshop.Models.csproj", "{1CEF8D21-EB4D-4820-A5E7-A85C1743C886}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotographyWorkshop.Data", "PhotographyWorkshop.Data\PhotographyWorkshop.Data.csproj", "{A7E6A020-525C-4860-AC21-46EAAEF6B2F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotographyWorkshop.Dto", "PhotographyWorkshop.Dto\PhotographyWorkshop.Dto.csproj", "{0962722C-14A0-4CB7-A875-4080DB7D728A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotographyWorkshop.ImportXml", "PhotographyWorkshop.ImportXml\PhotographyWorkshop.ImportXml.csproj", "{D7D6D2B7-34CE-4B1B-B6B6-2437C8388E74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotographyWorkshop.ExportJson", "PhotographyWorkshop.ExportJson\PhotographyWorkshop.ExportJson.csproj", "{F72F99B1-3AB1-4B74-8AC3-4C62A044EEE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotographyWorkshop.ExportXml", "PhotographyWorkshop.ExportXml\PhotographyWorkshop.ExportXml.csproj", "{46A27657-A028-41DE-95EA-016FDFB3FE53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA2E1F3D-9F76-47C7-8677-5E7172BB12E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA2E1F3D-9F76-47C7-8677-5E7172BB12E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA2E1F3D-9F76-47C7-8677-5E7172BB12E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA2E1F3D-9F76-47C7-8677-5E7172BB12E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CEF8D21-EB4D-4820-A5E7-A85C1743C886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CEF8D21-EB4D-4820-A5E7-A85C1743C886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CEF8D21-EB4D-4820-A5E7-A85C1743C886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CEF8D21-EB4D-4820-A5E7-A85C1743C886}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7E6A020-525C-4860-AC21-46EAAEF6B2F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7E6A020-525C-4860-AC21-46EAAEF6B2F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7E6A020-525C-4860-AC21-46EAAEF6B2F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7E6A020-525C-4860-AC21-46EAAEF6B2F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0962722C-14A0-4CB7-A875-4080DB7D728A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0962722C-14A0-4CB7-A875-4080DB7D728A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0962722C-14A0-4CB7-A875-4080DB7D728A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0962722C-14A0-4CB7-A875-4080DB7D728A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7D6D2B7-34CE-4B1B-B6B6-2437C8388E74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7D6D2B7-34CE-4B1B-B6B6-2437C8388E74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7D6D2B7-34CE-4B1B-B6B6-2437C8388E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7D6D2B7-34CE-4B1B-B6B6-2437C8388E74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F72F99B1-3AB1-4B74-8AC3-4C62A044EEE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F72F99B1-3AB1-4B74-8AC3-4C62A044EEE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F72F99B1-3AB1-4B74-8AC3-4C62A044EEE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F72F99B1-3AB1-4B74-8AC3-4C62A044EEE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46A27657-A028-41DE-95EA-016FDFB3FE53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46A27657-A028-41DE-95EA-016FDFB3FE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46A27657-A028-41DE-95EA-016FDFB3FE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46A27657-A028-41DE-95EA-016FDFB3FE53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

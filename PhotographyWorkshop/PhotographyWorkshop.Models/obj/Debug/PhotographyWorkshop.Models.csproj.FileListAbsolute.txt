@@ -1,0 +1,5 @@
+c:\users\go6koy\documents\visual studio 2015\Projects\PhotographyWorkshop\PhotographyWorkshop.Models\bin\Debug\PhotographyWorkshop.Models.dll
+c:\users\go6koy\documents\visual studio 2015\Projects\PhotographyWorkshop\PhotographyWorkshop.Models\bin\Debug\PhotographyWorkshop.Models.pdb
+c:\users\go6koy\documents\visual studio 2015\Projects\PhotographyWorkshop\PhotographyWorkshop.Models\obj\Debug\PhotographyWorkshop.Models.csprojResolveAssemblyReference.cache
+c:\users\go6koy\documents\visual studio 2015\Projects\PhotographyWorkshop\PhotographyWorkshop.Models\obj\Debug\PhotographyWorkshop.Models.dll
+c:\users\go6koy\documents\visual studio 2015\Projects\PhotographyWorkshop\PhotographyWorkshop.Models\obj\Debug\PhotographyWorkshop.Models.pdb

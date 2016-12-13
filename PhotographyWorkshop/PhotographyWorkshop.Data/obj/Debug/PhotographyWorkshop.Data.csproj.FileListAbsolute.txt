@@ -1,0 +1,12 @@
+c:\users\go6koy\documents\visual studio 2015\Projects\PhotographyWorkshop\PhotographyWorkshop.Data\bin\Debug\PhotographyWorkshop.Data.dll.config
+c:\users\go6koy\documents\visual studio 2015\Projects\PhotographyWorkshop\PhotographyWorkshop.Data\bin\Debug\PhotographyWorkshop.Data.dll
+c:\users\go6koy\documents\visual studio 2015\Projects\PhotographyWorkshop\PhotographyWorkshop.Data\bin\Debug\PhotographyWorkshop.Data.pdb
+c:\users\go6koy\documents\visual studio 2015\Projects\PhotographyWorkshop\PhotographyWorkshop.Data\bin\Debug\EntityFramework.dll
+c:\users\go6koy\documents\visual studio 2015\Projects\PhotographyWorkshop\PhotographyWorkshop.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\go6koy\documents\visual studio 2015\Projects\PhotographyWorkshop\PhotographyWorkshop.Data\bin\Debug\PhotographyWorkshop.Models.dll
+c:\users\go6koy\documents\visual studio 2015\Projects\PhotographyWorkshop\PhotographyWorkshop.Data\bin\Debug\PhotographyWorkshop.Models.pdb
+c:\users\go6koy\documents\visual studio 2015\Projects\PhotographyWorkshop\PhotographyWorkshop.Data\bin\Debug\EntityFramework.xml
+c:\users\go6koy\documents\visual studio 2015\Projects\PhotographyWorkshop\PhotographyWorkshop.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\go6koy\documents\visual studio 2015\Projects\PhotographyWorkshop\PhotographyWorkshop.Data\obj\Debug\PhotographyWorkshop.Data.csprojResolveAssemblyReference.cache
+c:\users\go6koy\documents\visual studio 2015\Projects\PhotographyWorkshop\PhotographyWorkshop.Data\obj\Debug\PhotographyWorkshop.Data.dll
+c:\users\go6koy\documents\visual studio 2015\Projects\PhotographyWorkshop\PhotographyWorkshop.Data\obj\Debug\PhotographyWorkshop.Data.pdb
