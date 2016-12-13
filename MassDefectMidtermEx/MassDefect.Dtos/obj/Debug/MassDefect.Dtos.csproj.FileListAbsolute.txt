@@ -1,0 +1,5 @@
+c:\users\go6koy\documents\visual studio 2015\Projects\MassDefectMidtermEx\MassDefect.Dtos\bin\Debug\MassDefect.Dtos.dll
+c:\users\go6koy\documents\visual studio 2015\Projects\MassDefectMidtermEx\MassDefect.Dtos\bin\Debug\MassDefect.Dtos.pdb
+c:\users\go6koy\documents\visual studio 2015\Projects\MassDefectMidtermEx\MassDefect.Dtos\obj\Debug\MassDefect.Dtos.csprojResolveAssemblyReference.cache
+c:\users\go6koy\documents\visual studio 2015\Projects\MassDefectMidtermEx\MassDefect.Dtos\obj\Debug\MassDefect.Dtos.dll
+c:\users\go6koy\documents\visual studio 2015\Projects\MassDefectMidtermEx\MassDefect.Dtos\obj\Debug\MassDefect.Dtos.pdb
