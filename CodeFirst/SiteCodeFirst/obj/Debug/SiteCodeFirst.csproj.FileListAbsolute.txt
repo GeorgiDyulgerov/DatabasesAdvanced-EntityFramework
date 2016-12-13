@@ -1,0 +1,14 @@
+c:\users\go6koy\documents\visual studio 2015\Projects\CodeFirst\SiteCodeFirst\bin\Debug\SiteCodeFirst.exe.config
+c:\users\go6koy\documents\visual studio 2015\Projects\CodeFirst\SiteCodeFirst\obj\Debug\SiteCodeFirst.csprojResolveAssemblyReference.cache
+c:\users\go6koy\documents\visual studio 2015\Projects\CodeFirst\SiteCodeFirst\bin\Debug\SiteCodeFirst.exe
+c:\users\go6koy\documents\visual studio 2015\Projects\CodeFirst\SiteCodeFirst\bin\Debug\SiteCodeFirst.pdb
+c:\users\go6koy\documents\visual studio 2015\Projects\CodeFirst\SiteCodeFirst\obj\Debug\SiteCodeFirst.exe
+c:\users\go6koy\documents\visual studio 2015\Projects\CodeFirst\SiteCodeFirst\obj\Debug\SiteCodeFirst.pdb
+c:\users\go6koy\documents\visual studio 2015\Projects\CodeFirst\SiteCodeFirst\bin\Debug\EntityFramework.dll
+c:\users\go6koy\documents\visual studio 2015\Projects\CodeFirst\SiteCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\go6koy\documents\visual studio 2015\Projects\CodeFirst\SiteCodeFirst\bin\Debug\EntityFramework.xml
+c:\users\go6koy\documents\visual studio 2015\Projects\CodeFirst\SiteCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\go6koy\documents\visual studio 2015\Projects\CodeFirst\SiteCodeFirst\obj\Debug\SiteCodeFirst.Migrations.InitialCreate.resources
+c:\users\go6koy\documents\visual studio 2015\Projects\CodeFirst\SiteCodeFirst\obj\Debug\SiteCodeFirst.csproj.GenerateResource.Cache
+C:\Users\Go6koy\documents\visual studio 2015\Projects\CodeFirst\SiteCodeFirst\obj\Debug\SiteCodeFirst.Migrations.One.resources
+C:\Users\Go6koy\documents\visual studio 2015\Projects\CodeFirst\SiteCodeFirst\obj\Debug\SiteCodeFirst.Migrations.som.resources

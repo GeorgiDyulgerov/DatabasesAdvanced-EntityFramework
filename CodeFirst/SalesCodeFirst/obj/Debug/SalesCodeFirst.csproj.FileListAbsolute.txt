@@ -1,0 +1,10 @@
+C:\Users\Go6koy\documents\visual studio 2015\Projects\CodeFirst\SalesCodeFirst\bin\Debug\SalesCodeFirst.exe.config
+C:\Users\Go6koy\documents\visual studio 2015\Projects\CodeFirst\SalesCodeFirst\bin\Debug\SalesCodeFirst.exe
+C:\Users\Go6koy\documents\visual studio 2015\Projects\CodeFirst\SalesCodeFirst\bin\Debug\SalesCodeFirst.pdb
+C:\Users\Go6koy\documents\visual studio 2015\Projects\CodeFirst\SalesCodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Go6koy\documents\visual studio 2015\Projects\CodeFirst\SalesCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Go6koy\documents\visual studio 2015\Projects\CodeFirst\SalesCodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Go6koy\documents\visual studio 2015\Projects\CodeFirst\SalesCodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Go6koy\documents\visual studio 2015\Projects\CodeFirst\SalesCodeFirst\obj\Debug\SalesCodeFirst.csprojResolveAssemblyReference.cache
+C:\Users\Go6koy\documents\visual studio 2015\Projects\CodeFirst\SalesCodeFirst\obj\Debug\SalesCodeFirst.exe
+C:\Users\Go6koy\documents\visual studio 2015\Projects\CodeFirst\SalesCodeFirst\obj\Debug\SalesCodeFirst.pdb

@@ -1,0 +1,14 @@
+c:\users\go6koy\documents\visual studio 2015\Projects\CodeFirstSudentSystem\CodeFirstStudentSystem.Client\bin\Debug\CodeFirstStudentSystem.Client.exe.config
+C:\Users\Go6koy\Documents\Visual Studio 2015\Projects\CodeFirstSudentSystem\CodeFirstStudentSystem.Client\bin\Debug\CodeFirstStudentSystem.Client.exe
+C:\Users\Go6koy\Documents\Visual Studio 2015\Projects\CodeFirstSudentSystem\CodeFirstStudentSystem.Client\bin\Debug\CodeFirstStudentSystem.Client.pdb
+C:\Users\Go6koy\Documents\Visual Studio 2015\Projects\CodeFirstSudentSystem\CodeFirstStudentSystem.Client\bin\Debug\EntityFramework.dll
+C:\Users\Go6koy\Documents\Visual Studio 2015\Projects\CodeFirstSudentSystem\CodeFirstStudentSystem.Client\bin\Debug\StudentSystem.Data.exe
+C:\Users\Go6koy\Documents\Visual Studio 2015\Projects\CodeFirstSudentSystem\CodeFirstStudentSystem.Client\bin\Debug\StudentSystem.Models.exe
+C:\Users\Go6koy\Documents\Visual Studio 2015\Projects\CodeFirstSudentSystem\CodeFirstStudentSystem.Client\bin\Debug\StudentSystem.Data.pdb
+C:\Users\Go6koy\Documents\Visual Studio 2015\Projects\CodeFirstSudentSystem\CodeFirstStudentSystem.Client\bin\Debug\StudentSystem.Models.pdb
+C:\Users\Go6koy\Documents\Visual Studio 2015\Projects\CodeFirstSudentSystem\CodeFirstStudentSystem.Client\bin\Debug\EntityFramework.xml
+C:\Users\Go6koy\Documents\Visual Studio 2015\Projects\CodeFirstSudentSystem\CodeFirstStudentSystem.Client\obj\Debug\CodeFirstStudentSystem.Client.csprojResolveAssemblyReference.cache
+C:\Users\Go6koy\Documents\Visual Studio 2015\Projects\CodeFirstSudentSystem\CodeFirstStudentSystem.Client\obj\Debug\CodeFirstStudentSystem.Client.exe
+C:\Users\Go6koy\Documents\Visual Studio 2015\Projects\CodeFirstSudentSystem\CodeFirstStudentSystem.Client\obj\Debug\CodeFirstStudentSystem.Client.pdb
+C:\Users\Go6koy\documents\visual studio 2015\Projects\CodeFirstSudentSystem\CodeFirstStudentSystem.Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Go6koy\documents\visual studio 2015\Projects\CodeFirstSudentSystem\CodeFirstStudentSystem.Client\bin\Debug\EntityFramework.SqlServer.xml

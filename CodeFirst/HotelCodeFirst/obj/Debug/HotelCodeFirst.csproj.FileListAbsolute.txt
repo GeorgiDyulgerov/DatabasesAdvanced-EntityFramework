@@ -1,0 +1,9 @@
+c:\users\go6koy\documents\visual studio 2015\Projects\CodeFirst\HotelCodeFirst\bin\Debug\HotelCodeFirst.exe.config
+c:\users\go6koy\documents\visual studio 2015\Projects\CodeFirst\HotelCodeFirst\bin\Debug\HotelCodeFirst.exe
+c:\users\go6koy\documents\visual studio 2015\Projects\CodeFirst\HotelCodeFirst\bin\Debug\HotelCodeFirst.pdb
+c:\users\go6koy\documents\visual studio 2015\Projects\CodeFirst\HotelCodeFirst\obj\Debug\HotelCodeFirst.exe
+c:\users\go6koy\documents\visual studio 2015\Projects\CodeFirst\HotelCodeFirst\obj\Debug\HotelCodeFirst.pdb
+c:\users\go6koy\documents\visual studio 2015\Projects\CodeFirst\HotelCodeFirst\bin\Debug\EntityFramework.dll
+c:\users\go6koy\documents\visual studio 2015\Projects\CodeFirst\HotelCodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\go6koy\documents\visual studio 2015\Projects\CodeFirst\HotelCodeFirst\bin\Debug\EntityFramework.xml
+c:\users\go6koy\documents\visual studio 2015\Projects\CodeFirst\HotelCodeFirst\bin\Debug\EntityFramework.SqlServer.xml

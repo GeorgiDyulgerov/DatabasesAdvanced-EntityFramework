@@ -1,0 +1,2 @@
+c:\users\go6koy\documents\visual studio 2015\Projects\StudentSystem\StudentSystemData\obj\Debug\StudentSystemData.csprojResolveAssemblyReference.cache
+c:\users\go6koy\documents\visual studio 2015\Projects\StudentSystem\StudentSystemData\bin\Debug\StudentSystemData.exe.config

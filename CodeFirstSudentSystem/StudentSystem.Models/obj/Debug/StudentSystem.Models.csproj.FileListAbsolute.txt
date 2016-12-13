@@ -1,0 +1,6 @@
+c:\users\go6koy\documents\visual studio 2015\Projects\CodeFirstSudentSystem\StudentSystem.Models\bin\Debug\StudentSystem.Models.exe.config
+C:\Users\Go6koy\Documents\Visual Studio 2015\Projects\CodeFirstSudentSystem\StudentSystem.Models\bin\Debug\StudentSystem.Models.exe
+C:\Users\Go6koy\Documents\Visual Studio 2015\Projects\CodeFirstSudentSystem\StudentSystem.Models\bin\Debug\StudentSystem.Models.pdb
+C:\Users\Go6koy\Documents\Visual Studio 2015\Projects\CodeFirstSudentSystem\StudentSystem.Models\obj\Debug\StudentSystem.Models.csprojResolveAssemblyReference.cache
+C:\Users\Go6koy\Documents\Visual Studio 2015\Projects\CodeFirstSudentSystem\StudentSystem.Models\obj\Debug\StudentSystem.Models.exe
+C:\Users\Go6koy\Documents\Visual Studio 2015\Projects\CodeFirstSudentSystem\StudentSystem.Models\obj\Debug\StudentSystem.Models.pdb

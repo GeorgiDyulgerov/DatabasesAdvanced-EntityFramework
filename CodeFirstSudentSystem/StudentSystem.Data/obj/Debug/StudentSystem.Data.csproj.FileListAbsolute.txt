@@ -1,0 +1,12 @@
+C:\Users\Go6koy\Documents\Visual Studio 2015\Projects\CodeFirstSudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Data.exe.config
+C:\Users\Go6koy\Documents\Visual Studio 2015\Projects\CodeFirstSudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Data.exe
+C:\Users\Go6koy\Documents\Visual Studio 2015\Projects\CodeFirstSudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Data.pdb
+C:\Users\Go6koy\Documents\Visual Studio 2015\Projects\CodeFirstSudentSystem\StudentSystem.Data\bin\Debug\EntityFramework.dll
+C:\Users\Go6koy\Documents\Visual Studio 2015\Projects\CodeFirstSudentSystem\StudentSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Go6koy\Documents\Visual Studio 2015\Projects\CodeFirstSudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Models.exe
+C:\Users\Go6koy\Documents\Visual Studio 2015\Projects\CodeFirstSudentSystem\StudentSystem.Data\bin\Debug\StudentSystem.Models.pdb
+C:\Users\Go6koy\Documents\Visual Studio 2015\Projects\CodeFirstSudentSystem\StudentSystem.Data\bin\Debug\EntityFramework.xml
+C:\Users\Go6koy\Documents\Visual Studio 2015\Projects\CodeFirstSudentSystem\StudentSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Go6koy\Documents\Visual Studio 2015\Projects\CodeFirstSudentSystem\StudentSystem.Data\obj\Debug\StudentSystem.Data.csprojResolveAssemblyReference.cache
+C:\Users\Go6koy\Documents\Visual Studio 2015\Projects\CodeFirstSudentSystem\StudentSystem.Data\obj\Debug\StudentSystem.Data.exe
+C:\Users\Go6koy\Documents\Visual Studio 2015\Projects\CodeFirstSudentSystem\StudentSystem.Data\obj\Debug\StudentSystem.Data.pdb

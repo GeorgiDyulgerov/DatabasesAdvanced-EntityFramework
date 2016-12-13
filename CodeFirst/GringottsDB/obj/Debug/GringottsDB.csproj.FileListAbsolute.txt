@@ -1,0 +1,10 @@
+c:\users\go6koy\documents\visual studio 2015\Projects\CodeFirst\GringottsDB\bin\Debug\GringottsDB.exe.config
+c:\users\go6koy\documents\visual studio 2015\Projects\CodeFirst\GringottsDB\obj\Debug\GringottsDB.csprojResolveAssemblyReference.cache
+c:\users\go6koy\documents\visual studio 2015\Projects\CodeFirst\GringottsDB\bin\Debug\GringottsDB.exe
+c:\users\go6koy\documents\visual studio 2015\Projects\CodeFirst\GringottsDB\bin\Debug\GringottsDB.pdb
+c:\users\go6koy\documents\visual studio 2015\Projects\CodeFirst\GringottsDB\bin\Debug\EntityFramework.dll
+c:\users\go6koy\documents\visual studio 2015\Projects\CodeFirst\GringottsDB\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\go6koy\documents\visual studio 2015\Projects\CodeFirst\GringottsDB\bin\Debug\EntityFramework.xml
+c:\users\go6koy\documents\visual studio 2015\Projects\CodeFirst\GringottsDB\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\go6koy\documents\visual studio 2015\Projects\CodeFirst\GringottsDB\obj\Debug\GringottsDB.exe
+c:\users\go6koy\documents\visual studio 2015\Projects\CodeFirst\GringottsDB\obj\Debug\GringottsDB.pdb

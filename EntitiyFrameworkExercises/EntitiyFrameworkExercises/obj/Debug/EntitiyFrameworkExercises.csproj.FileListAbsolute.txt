@@ -1,0 +1,10 @@
+c:\users\go6koy\documents\visual studio 2015\Projects\EntitiyFrameworkExercises\EntitiyFrameworkExercises\bin\Debug\EntitiyFrameworkExercises.exe.config
+C:\Users\Go6koy\documents\visual studio 2015\Projects\EntitiyFrameworkExercises\EntitiyFrameworkExercises\bin\Debug\EntitiyFrameworkExercises.exe
+C:\Users\Go6koy\documents\visual studio 2015\Projects\EntitiyFrameworkExercises\EntitiyFrameworkExercises\bin\Debug\EntitiyFrameworkExercises.pdb
+C:\Users\Go6koy\documents\visual studio 2015\Projects\EntitiyFrameworkExercises\EntitiyFrameworkExercises\bin\Debug\EntityFramework.dll
+C:\Users\Go6koy\documents\visual studio 2015\Projects\EntitiyFrameworkExercises\EntitiyFrameworkExercises\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Go6koy\documents\visual studio 2015\Projects\EntitiyFrameworkExercises\EntitiyFrameworkExercises\bin\Debug\EntityFramework.xml
+C:\Users\Go6koy\documents\visual studio 2015\Projects\EntitiyFrameworkExercises\EntitiyFrameworkExercises\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Go6koy\documents\visual studio 2015\Projects\EntitiyFrameworkExercises\EntitiyFrameworkExercises\obj\Debug\EntitiyFrameworkExercises.csprojResolveAssemblyReference.cache
+C:\Users\Go6koy\documents\visual studio 2015\Projects\EntitiyFrameworkExercises\EntitiyFrameworkExercises\obj\Debug\EntitiyFrameworkExercises.exe
+C:\Users\Go6koy\documents\visual studio 2015\Projects\EntitiyFrameworkExercises\EntitiyFrameworkExercises\obj\Debug\EntitiyFrameworkExercises.pdb
